@@ -11,7 +11,7 @@ let n, speed, tempSpeed, q, Board = 0;
 // Board = 0;
 
 // Creating array for all the possible arrangements of the N-Queen
-let array = [0, 2, 1, 1, 3];
+let array = [0, 2, 1, 1, 3, 11, 5, 41, 93];
 
 // Used to store the state of the boards;
 let pos = {};
